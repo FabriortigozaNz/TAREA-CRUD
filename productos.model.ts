@@ -1,0 +1,1 @@
+// Aquí se definirán los campos y validaciones del modelo de producto.

@@ -1,0 +1,1 @@
+// Archivo para implementar funciones CRUD (Crear, Leer, Obtener, Actualizar, Eliminar) de productos con Mongoose.
