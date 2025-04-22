@@ -2,7 +2,7 @@
 
 import mongoose from "mongoose";
 
-// Asegúrate de reemplazar esta URL con tu propia URL de conexión si es necesario
+
 const mongoURI = "mongodb://localhost:27017/tienda";
 
 export const conectDB = async () => {
